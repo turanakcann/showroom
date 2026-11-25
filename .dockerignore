@@ -1,0 +1,6 @@
+dist
+.env
+.git
+.build-*
+node_modules
+var

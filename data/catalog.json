@@ -1,0 +1,266 @@
+{
+  "demo": true,
+  "featured": "sarmal-vazo",
+  "filaments": [
+    {
+      "id": "mercan",
+      "name": "Mercan",
+      "hex": "#E75930",
+      "material": "PLA",
+      "available": true
+    },
+    {
+      "id": "zeytin",
+      "name": "Zeytin",
+      "hex": "#89956B",
+      "material": "PLA",
+      "available": true
+    },
+    {
+      "id": "leylak",
+      "name": "Leylak",
+      "hex": "#A78EC4",
+      "material": "PLA",
+      "available": true
+    },
+    {
+      "id": "kum",
+      "name": "Kum",
+      "hex": "#D8BD99",
+      "material": "PLA",
+      "available": true
+    },
+    {
+      "id": "grafit",
+      "name": "Grafit",
+      "hex": "#47484C",
+      "material": "PLA",
+      "available": true
+    },
+    {
+      "id": "buz",
+      "name": "Buz mavisi",
+      "hex": "#8BABC7",
+      "material": "PLA",
+      "available": false
+    }
+  ],
+  "products": [
+    {
+      "slug": "sarmal-vazo",
+      "code": "DM-001",
+      "name": "Sarmal Vazo",
+      "category": "Dekorasyon",
+      "description": "Helis biçimli kaburgaları tabandan ağıza doğru dönen dekoratif vazo. Kuru çiçekler veya tek başına sergilemek için tasarlandı.",
+      "dimensionsMm": [
+        112,
+        112,
+        145
+      ],
+      "priceTry": 320,
+      "status": "Model",
+      "filaments": [
+        "mercan",
+        "kum",
+        "grafit"
+      ],
+      "tags": [
+        "Spiral",
+        "Kuru çiçek"
+      ],
+      "backdrop": "#E7DECC",
+      "images": [
+        {
+          "src": "sarmal-vazo-1.webp",
+          "alt": "Sarmal Vazo, ön çapraz görünüm",
+          "kind": "Model görseli"
+        },
+        {
+          "src": "sarmal-vazo-2.webp",
+          "alt": "Sarmal Vazo, üst çapraz görünüm",
+          "kind": "Model görseli"
+        }
+      ]
+    },
+    {
+      "slug": "masa-organizeri",
+      "code": "DM-002",
+      "name": "Modüler Masa Organizeri",
+      "category": "Masaüstü",
+      "description": "Farklı yükseklikteki üç hazne kalemleri, küçük el aletlerini ve masa aksesuarlarını bir arada tutar.",
+      "dimensionsMm": [
+        125,
+        106,
+        110
+      ],
+      "priceTry": 285,
+      "status": "Model",
+      "filaments": [
+        "zeytin",
+        "kum",
+        "grafit"
+      ],
+      "tags": [
+        "Organizer",
+        "Kalemlik"
+      ],
+      "backdrop": "#D7DDCA",
+      "images": [
+        {
+          "src": "masa-organizeri-1.webp",
+          "alt": "Modüler Masa Organizeri, ön çapraz görünüm",
+          "kind": "Model görseli"
+        },
+        {
+          "src": "masa-organizeri-2.webp",
+          "alt": "Modüler Masa Organizeri, üst çapraz görünüm",
+          "kind": "Model görseli"
+        }
+      ]
+    },
+    {
+      "slug": "telefon-standi",
+      "code": "DM-003",
+      "name": "Kavis Telefon Standı",
+      "category": "Aksesuar",
+      "description": "Eğimli sırtı ve kavisli ön dudağıyla telefonu masa üzerinde dik tutmak için tasarlanmış tek parçalı stand.",
+      "dimensionsMm": [
+        78,
+        110,
+        104
+      ],
+      "priceTry": 190,
+      "status": "Model",
+      "filaments": [
+        "leylak",
+        "grafit",
+        "mercan"
+      ],
+      "tags": [
+        "Telefon",
+        "Stand"
+      ],
+      "backdrop": "#DFDAEC",
+      "images": [
+        {
+          "src": "telefon-standi-1.webp",
+          "alt": "Kavis Telefon Standı, ön çapraz görünüm",
+          "kind": "Model görseli"
+        },
+        {
+          "src": "telefon-standi-2.webp",
+          "alt": "Kavis Telefon Standı, üst çapraz görünüm",
+          "kind": "Model görseli"
+        }
+      ]
+    },
+    {
+      "slug": "dalga-saksi",
+      "code": "DM-004",
+      "name": "Dalga Saksı Kılıfı",
+      "category": "Dekorasyon",
+      "description": "Dalgalı dış yüzeyiyle küçük bir iç saksıyı sergilemek için tasarlanmış masaüstü kılıf.",
+      "dimensionsMm": [
+        98,
+        98,
+        77
+      ],
+      "priceTry": 220,
+      "status": "Model",
+      "filaments": [
+        "kum",
+        "zeytin",
+        "mercan"
+      ],
+      "tags": [
+        "Bitki",
+        "Saksı kılıfı"
+      ],
+      "backdrop": "#E6D9C9",
+      "images": [
+        {
+          "src": "dalga-saksi-1.webp",
+          "alt": "Dalga Saksı Kılıfı, ön çapraz görünüm",
+          "kind": "Model görseli"
+        },
+        {
+          "src": "dalga-saksi-2.webp",
+          "alt": "Dalga Saksı Kılıfı, üst çapraz görünüm",
+          "kind": "Model görseli"
+        }
+      ]
+    },
+    {
+      "slug": "cep-tepsisi",
+      "code": "DM-005",
+      "name": "Cep Tepsisi",
+      "category": "Aksesuar",
+      "description": "Anahtar ve küçük parçaları toplamak için alçak kenarlı, yumuşak köşeli bir düzenleyici.",
+      "dimensionsMm": [
+        135,
+        95,
+        24
+      ],
+      "priceTry": 175,
+      "status": "Model",
+      "filaments": [
+        "buz",
+        "leylak",
+        "grafit"
+      ],
+      "tags": [
+        "Tepsi",
+        "Düzenleme"
+      ],
+      "backdrop": "#D3DDE4",
+      "images": [
+        {
+          "src": "cep-tepsisi-1.webp",
+          "alt": "Cep Tepsisi, ön çapraz görünüm",
+          "kind": "Model görseli"
+        },
+        {
+          "src": "cep-tepsisi-2.webp",
+          "alt": "Cep Tepsisi, üst çapraz görünüm",
+          "kind": "Model görseli"
+        }
+      ]
+    },
+    {
+      "slug": "halkali-kalemlik",
+      "code": "DM-006",
+      "name": "Halkalı Kalemlik",
+      "category": "Masaüstü",
+      "description": "Üst üste halkalarla şekillenen silindirik masa kalemliği. Geniş, açık ağzı kalemlere kolay erişim sağlar.",
+      "dimensionsMm": [
+        74,
+        74,
+        104
+      ],
+      "priceTry": 200,
+      "status": "Model",
+      "filaments": [
+        "kum",
+        "zeytin",
+        "grafit"
+      ],
+      "tags": [
+        "Kalemlik",
+        "Halkalı"
+      ],
+      "backdrop": "#E7DBCA",
+      "images": [
+        {
+          "src": "halkali-kalemlik-1.webp",
+          "alt": "Halkalı Kalemlik, ön çapraz görünüm",
+          "kind": "Model görseli"
+        },
+        {
+          "src": "halkali-kalemlik-2.webp",
+          "alt": "Halkalı Kalemlik, üst çapraz görünüm",
+          "kind": "Model görseli"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{$SHOWROOM_DOMAIN} {
+    encode zstd gzip
+    reverse_proxy showroom:3000
+}
